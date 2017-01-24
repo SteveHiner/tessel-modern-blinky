@@ -1,0 +1,11 @@
+/lib
+/index.js
+
+npm-debug.log
+Thumbs.db
+.tmp
+.sass-cache
+.DS_Store
+.npm-*.log
+
+/node_modules
